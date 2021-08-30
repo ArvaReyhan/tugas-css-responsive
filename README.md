@@ -1,23 +1,23 @@
 # modul praktikum-css-responsive
-### Ahmad Syahrul Ramadhani 02 / XI RPL 3
+### Arva Reyhan Satria
 
-# SS Outputnya
+# SS Output
 
 ### Latihan Media Query
-![Alt text](ganti link foto)
+![Alt text](https://github.com/ArvaReyhan/tugas-css-responsive/blob/main/ss%20latihan%20media%20query.png)
 
 ### Latihan Konsep Grid
-![Alt text](ganti link foto)
+![Alt text](https://github.com/ArvaReyhan/tugas-css-responsive/blob/main/ss%20latihan%20konsep%20grid.png)
 
 ### Latihan Responsive artikel
-![Alt text](ganti link foto)
+![Alt text](https://github.com/ArvaReyhan/tugas-css-responsive/blob/main/ss%20latihan%20responsive%20artikel.png)
 
 ### Latihan Responsive template
-![Alt text](ganti link foto)
+![Alt text](https://github.com/ArvaReyhan/tugas-css-responsive/blob/main/ss%20latihan%20responsive%20template.png)
 
 ### Latihan Responsive image gallery
-![Alt text](ganti link foto)
+![Alt text](https://github.com/ArvaReyhan/tugas-css-responsive/blob/main/ss%20latihan%20responsive%20image%20gallery.png)
 
-### Latihan Responsive image form
-![Alt text](ganti link foto)
+### Latihan Responsive form
+![Alt text](https://github.com/ArvaReyhan/tugas-css-responsive/blob/main/ss%20latihan%20responsive%20form.png)
 
